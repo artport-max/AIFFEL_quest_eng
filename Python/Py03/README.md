@@ -2,7 +2,6 @@
 - 코더 : 박무림
 - 리뷰어 : 차경환
 
-<img width="895" height="366" alt="image" src="https://github.com/user-attachments/assets/52fe4e14-46d0-4cce-b43d-33e495fe7e85" />
 
 # PRT(Peer Review Template)
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
