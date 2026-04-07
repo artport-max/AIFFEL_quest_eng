@@ -1,0 +1,230 @@
+[
+    {
+        "id": 10684,
+        "name": "Floating Blue",
+        "original_description": "First recipe in John Britt's floating blue section.",
+        "input_for_ai": "유약 이름은 Floating Blue입니다. 현재 Production 단계이며, 상세 설명은 다음과 같습니다: First recipe in John Britt's floating blue section.",
+        "umf": {
+            "SiO2": 3.2741,
+            "Al2O3": 0.4672,
+            "B2O3": 0.3376,
+            "K2O": 0.0843,
+            "Na2O": 0.3161,
+            "MgO": 0.138,
+            "CaO": 0.4616,
+            "TiO2": 0.1634,
+            "Fe2O3": 0.0572,
+            "CoO": 0.0301,
+            "P2O5": 0.001
+        },
+        "firing": {
+            "surface": "Glossy"
+        },
+        "state": "Production"
+    },
+    {
+        "id": 131996,
+        "name": "Lynette's Opal",
+        "original_description": "A personal favourite. As expected we got some very fun, fluid and soft glazes.\n\nLooks pretty much the exact same in cone 5 as it does 6.",
+        "input_for_ai": "유약 이름은 Lynette's Opal입니다. 현재 Testing 단계이며, 상세 설명은 다음과 같습니다: A personal favourite. As expected we got some very fun, fluid and soft glazes.\n\nLooks pretty much the exact same in cone 5 as it does 6.",
+        "umf": {
+            "SiO2": 2.9905,
+            "Al2O3": 0.3713,
+            "B2O3": 0.118,
+            "K2O": 0.0598,
+            "Na2O": 0.2073,
+            "MgO": 0.1545,
+            "CaO": 0.3901,
+            "ZnO": 0.1884,
+            "TiO2": 0.278,
+            "Fe2O3": 0.0192,
+            "P2O5": 0.0007
+        },
+        "firing": {
+            "surface": "Glossy"
+        },
+        "state": "Testing"
+    },
+    {
+        "id": 144590,
+        "name": "OldForge FirstFive Floating Base",
+        "original_description": "This is one of a selection of straightforward recipes that use the same 5 base ingredients, to give an easy starting point to buying ingredients and mixing glazes: https://www.oldforgecreations.co.uk/blog/first-five-ingredients-where-to-start-with-glaze-making\n\nThis is a fluid base with titanium, which should produce flowing variegated glazes with added colourants and/or in combination. All colourant tests shown are in addition to the titanium. If you're not getting the phase separation and opacity, try a thicker application, a cooler firing, or adding a little more titanium.\n\nIf you use an immersion blender to mix your tests, you will need to use the same blender for the full batches, as it can have [a drastic impact on the result with certain colourants (including titanium)](https://glazy.org/posts/173081)\n\nI'm separating out the colour tests as I do them on larger pieces to make them easier to find:\n\n[Original](https://glazy.org/materials/144590)\n[Cobalt](https://glazy.org/recipes/150980)\n[Copper](https://glazy.org/materials/150981)\n[Chrome](https://glazy.org/materials/219390)\n[Rutile](https://glazy.org/recipes/236647)",
+        "input_for_ai": "유약 이름은 OldForge FirstFive Floating Base입니다. 현재 Testing 단계이며, 상세 설명은 다음과 같습니다: This is one of a selection of straightforward recipes that use the same 5 base ingredients, to give an easy starting point to buying ingredients and mixing glazes: https://www.oldforgecreations.co.uk/blog/first-five-ingredients-where-to-start-with-glaze-making\n\nThis is a fluid base with titanium, which should produce flowing variegated glazes with added colourants and/or in combination. All colourant tests shown are in addition to the titanium. If you're not getting the phase separation and opacity, try a thicker application, a cooler firing, or adding a little more titanium.\n\nIf you use an immersion blender to mix your tests, you will need to use the same blender for the full batches, as it can have [a drastic impact on the result with certain colourants (including titanium)](https://glazy.org/posts/173081)\n\nI'm separating out the colour tests as I do them on larger pieces to make them easier to find:\n\n[Original](https://glazy.org/materials/144590)\n[Cobalt](https://glazy.org/recipes/150980)\n[Copper](https://glazy.org/materials/150981)\n[Chrome](https://glazy.org/materials/219390)\n[Rutile](https://glazy.org/recipes/236647)",
+        "umf": {
+            "SiO2": 3.7925,
+            "Al2O3": 0.3634,
+            "B2O3": 0.2963,
+            "K2O": 0.0378,
+            "Na2O": 0.2666,
+            "MgO": 0.0066,
+            "CaO": 0.689,
+            "TiO2": 0.1155,
+            "Fe2O3": 0.0042,
+            "P2O5": 0.0008
+        },
+        "firing": {
+            "surface": "Glossy"
+        },
+        "state": "Testing"
+    },
+    {
+        "id": 150980,
+        "name": "OldForge FirstFive Floating Cobalt",
+        "original_description": "This is one of a selection of straightforward recipes that use the same 5 base ingredients, to give an easy starting point to buying ingredients and mixing glazes: https://www.oldforgecreations.co.uk/blog/first-five-ingredients-where-to-start-with-glaze-making\n\nThis is a fluid base with titanium, which should produce flowing variegated glazes with added colourants and/or in combination. All colourant tests shown are in addition to the titanium. If you're not getting the phase separation and opacity, try a thicker application, a cooler firing, or adding a little more titanium.\n\nIf you use an immersion blender to mix your tests, you will need to use the same blender for the full batches, as it can have [a drastic impact on the result with certain colourants (including titanium)](https://glazy.org/posts/173081)\n\nI'm separating out the colour tests as I do them on larger pieces to make them easier to find:\n\n[Original](https://glazy.org/materials/144590)\n[Cobalt](https://glazy.org/recipes/150980)\n[Copper](https://glazy.org/materials/150981)\n[Chrome](https://glazy.org/materials/219390)\n[Rutile](https://glazy.org/recipes/236647)",
+        "input_for_ai": "유약 이름은 OldForge FirstFive Floating Cobalt입니다. 현재 Testing 단계이며, 상세 설명은 다음과 같습니다: This is one of a selection of straightforward recipes that use the same 5 base ingredients, to give an easy starting point to buying ingredients and mixing glazes: https://www.oldforgecreations.co.uk/blog/first-five-ingredients-where-to-start-with-glaze-making\n\nThis is a fluid base with titanium, which should produce flowing variegated glazes with added colourants and/or in combination. All colourant tests shown are in addition to the titanium. If you're not getting the phase separation and opacity, try a thicker application, a cooler firing, or adding a little more titanium.\n\nIf you use an immersion blender to mix your tests, you will need to use the same blender for the full batches, as it can have [a drastic impact on the result with certain colourants (including titanium)](https://glazy.org/posts/173081)\n\nI'm separating out the colour tests as I do them on larger pieces to make them easier to find:\n\n[Original](https://glazy.org/materials/144590)\n[Cobalt](https://glazy.org/recipes/150980)\n[Copper](https://glazy.org/materials/150981)\n[Chrome](https://glazy.org/materials/219390)\n[Rutile](https://glazy.org/recipes/236647)",
+        "umf": {
+            "SiO2": 3.7925,
+            "Al2O3": 0.3634,
+            "B2O3": 0.2963,
+            "K2O": 0.0378,
+            "Na2O": 0.2666,
+            "MgO": 0.0066,
+            "CaO": 0.689,
+            "TiO2": 0.1155,
+            "Fe2O3": 0.0042,
+            "CoO": 0.0304,
+            "P2O5": 0.0008
+        },
+        "firing": {
+            "surface": "Glossy"
+        },
+        "state": "Testing"
+    },
+    {
+        "id": 268042,
+        "name": "Dune",
+        "original_description": "A well behaved, easy to apply matte with texture like a soft polished stone.\n\nAdjustments made to the original recipe:\n- Reduced Nickel Oxide to 1 to create a more neutral tone.\n- Added more Neph Sye to balance the R2O:RO ratio to reduce leaching.\n\nTested for leaching and crazing, so far, so good on the listed Standard Ceramic mid-fire clays. Please do your own testing as well to ensure food safety!\n\nSee also Will Donovan's Eggshell Satin - a similar recipe that I wasn't aware of when altering this one: https://glazy.org/recipes/246036",
+        "input_for_ai": "유약 이름은 Dune입니다. 현재 Production 단계이며, 상세 설명은 다음과 같습니다: A well behaved, easy to apply matte with texture like a soft polished stone.\n\nAdjustments made to the original recipe:\n- Reduced Nickel Oxide to 1 to create a more neutral tone.\n- Added more Neph Sye to balance the R2O:RO ratio to reduce leaching.\n\nTested for leaching and crazing, so far, so good on the listed Standard Ceramic mid-fire clays. Please do your own testing as well to ensure food safety!\n\nSee also Will Donovan's Eggshell Satin - a similar recipe that I wasn't aware of when altering this one: https://glazy.org/recipes/246036",
+        "umf": {
+            "SiO2": 2.5468,
+            "Al2O3": 0.5039,
+            "B2O3": 0.1753,
+            "K2O": 0.0381,
+            "Na2O": 0.1842,
+            "MgO": 0.0034,
+            "CaO": 0.4295,
+            "SrO": 0.3448,
+            "TiO2": 0.1681,
+            "Fe2O3": 0.004,
+            "NiO": 0.044,
+            "P2O5": 0.0014
+        },
+        "firing": {
+            "surface": "Smooth Matte"
+        },
+        "state": "Production"
+    },
+    {
+        "id": 301062,
+        "name": "Crystal",
+        "original_description": "This glaze is applied thinly to the test tiles, fired at a 45deg. angle, and pots shown.  It will not run, as attested to by the photos, if put on very thin.  I used a spray gun with four very quick passes.\nWater= 60 per 100 batch\n\nSuccess with this glaze depends on how well your kiln is dialed in.\nFiring schedule:\nRamp 1 500f 2094f Hold 5min\nRamp 2 300f 2294f Hold 10min\nRamp 3 9999 1963f hold 360min\n\nAdjust the kiln ramps and temp to suit how hot or cold your kiln fires.  To hot=few to no crystals.  To cold=the glazes is over nucleated and appears matte.",
+        "input_for_ai": "유약 이름은 Crystal입니다. 현재 Production 단계이며, 상세 설명은 다음과 같습니다: This glaze is applied thinly to the test tiles, fired at a 45deg. angle, and pots shown.  It will not run, as attested to by the photos, if put on very thin.  I used a spray gun with four very quick passes.\nWater= 60 per 100 batch\n\nSuccess with this glaze depends on how well your kiln is dialed in.\nFiring schedule:\nRamp 1 500f 2094f Hold 5min\nRamp 2 300f 2294f Hold 10min\nRamp 3 9999 1963f hold 360min\n\nAdjust the kiln ramps and temp to suit how hot or cold your kiln fires.  To hot=few to no crystals.  To cold=the glazes is over nucleated and appears matte.",
+        "umf": {
+            "SiO2": 2.0481,
+            "Al2O3": 0.1053,
+            "B2O3": 0.0698,
+            "K2O": 0.0258,
+            "Na2O": 0.2489,
+            "MgO": 0.0078,
+            "CaO": 0.1406,
+            "ZnO": 0.5769,
+            "TiO2": 0.0324,
+            "Fe2O3": 0.0011,
+            "P2O5": 0.0004
+        },
+        "firing": {
+            "surface": "Glossy"
+        },
+        "state": "Production"
+    },
+    {
+        "id": 4454,
+        "name": "Akiko's crater glaze",
+        "original_description": "This is a base recipe for Volcanic glazes given to me by my teacher Akiko Hirai. She recommends using it on stoneware with a black slip underneath but it responds well to other additives ie 2-3% copper oxide turns it turquoise and on porcelain it looks like coral encrustations.",
+        "input_for_ai": "유약 이름은 Akiko's crater glaze입니다. 현재 Production 단계이며, 상세 설명은 다음과 같습니다: This is a base recipe for Volcanic glazes given to me by my teacher Akiko Hirai. She recommends using it on stoneware with a black slip underneath but it responds well to other additives ie 2-3% copper oxide turns it turquoise and on porcelain it looks like coral encrustations.",
+        "umf": {
+            "SiO2": 3.83,
+            "Al2O3": 0.8046,
+            "K2O": 0.1306,
+            "Na2O": 0.4229,
+            "MgO": 0.0067,
+            "CaO": 0.0334,
+            "BaO": 0.4064,
+            "TiO2": 0.1005,
+            "Fe2O3": 0.0072
+        },
+        "firing": {
+            "surface": "Matte"
+        },
+        "state": "Production"
+    },
+    {
+        "id": 6356,
+        "name": "Keen Green",
+        "original_description": "Tennessee Technological University - Appalachian Center for Crafts - Clay Studio\r\n￼\r\nVince Pitelka, 2015\r\n\r\nMost of the glaze recipes below are given here as they were provided to us by Susan Demay.\r\n\r\nhttps://sites.tntech.edu/wpitelka/handoutsinformation/\r\n\r\nOriginal Recipe:\r\n\r\nGerstley Borate 1360 \r\nPotash Spar 4600 \r\nFlint 1880 \r\nEPK 250 \r\nWhiting 810 \r\nZircopax 600 \r\nDolomite 600 \r\nBentonite 100 \r\nCopper Carb 663 \r\nRutile 250",
+        "input_for_ai": "유약 이름은 Keen Green입니다. 현재 Production 단계이며, 상세 설명은 다음과 같습니다: Tennessee Technological University - Appalachian Center for Crafts - Clay Studio\r\n￼\r\nVince Pitelka, 2015\r\n\r\nMost of the glaze recipes below are given here as they were provided to us by Susan Demay.\r\n\r\nhttps://sites.tntech.edu/wpitelka/handoutsinformation/\r\n\r\nOriginal Recipe:\r\n\r\nGerstley Borate 1360 \r\nPotash Spar 4600 \r\nFlint 1880 \r\nEPK 250 \r\nWhiting 810 \r\nZircopax 600 \r\nDolomite 600 \r\nBentonite 100 \r\nCopper Carb 663 \r\nRutile 250",
+        "umf": {
+            "SiO2": 3.0255,
+            "Al2O3": 0.3184,
+            "B2O3": 0.1753,
+            "K2O": 0.2792,
+            "Na2O": 0.0311,
+            "MgO": 0.1507,
+            "CaO": 0.539,
+            "TiO2": 0.0952,
+            "ZrO2": 0.1096,
+            "Fe2O3": 0.0075,
+            "CuO": 0.1797,
+            "P2O5": 0.0005
+        },
+        "firing": {},
+        "state": "Production"
+    },
+    {
+        "id": 7973,
+        "name": "Studio White",
+        "original_description": "https://mightymudmixer.com/shop/studio-white/\r\n\r\nThis mixture is a very forgiving white glaze, creamy and brilliant… Will accept underglazing applied over to produce a type of Majolica effect.",
+        "input_for_ai": "유약 이름은 Studio White입니다. 현재 Production 단계이며, 상세 설명은 다음과 같습니다: https://mightymudmixer.com/shop/studio-white/\r\n\r\nThis mixture is a very forgiving white glaze, creamy and brilliant… Will accept underglazing applied over to produce a type of Majolica effect.",
+        "umf": {
+            "SiO2": 2.7908,
+            "Al2O3": 0.2585,
+            "B2O3": 0.1504,
+            "K2O": 0.0606,
+            "Na2O": 0.1686,
+            "MgO": 0.1297,
+            "CaO": 0.5024,
+            "ZnO": 0.1387,
+            "TiO2": 0.0005,
+            "ZrO2": 0.1579,
+            "Fe2O3": 0.0027,
+            "P2O5": 0.0003
+        },
+        "firing": {
+            "surface": "Glossy"
+        },
+        "state": "Production"
+    },
+    {
+        "id": 9792,
+        "name": "Selsor Chun",
+        "original_description": "",
+        "input_for_ai": "유약 이름은 Selsor Chun입니다. 현재 Production 단계이며, 상세 설명은 다음과 같습니다: ",
+        "umf": {
+            "SiO2": 2.9206,
+            "Al2O3": 0.1949,
+            "B2O3": 0.158,
+            "K2O": 0.0777,
+            "Na2O": 0.1683,
+            "MgO": 0.0954,
+            "CaO": 0.554,
+            "ZnO": 0.1046,
+            "TiO2": 0.096,
+            "Fe2O3": 0.0074,
+            "CuO": 0.0689
+        },
+        "firing": {
+            "surface": "Glossy"
+        },
+        "state": "Production"
+    }
+]
