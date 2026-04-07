@@ -1,0 +1,1582 @@
+[
+  {
+    "chunk_id": "DF_SEGER_FORMULA_DEF",
+    "text": "[용어: Seger Formula]\n[정의] Hermann Seger가 고안한 유약 화학 표준 표기법. 모든 플럭스(RO+R₂O) 합계를 1.0으로 정규화하여 유약 간 비교를 가능하게 함.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Seger Formula",
+      "category": "chemistry_method",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "stability",
+        "melting",
+        "comparison"
+      ],
+      "key_phrases": [
+        "seger formula",
+        "unity formula",
+        "umf",
+        "flux unity"
+      ],
+      "url": "https://digitalfire.com/glossary/seger+formula"
+    }
+  },
+  {
+    "chunk_id": "DF_SEGER_FORMULA_C00",
+    "text": "[용어: Seger Formula] [chemistry_method]\nSeger Formula(제거 공식)는 유약 화학을 3열 형식으로 표현하는 표준 체계다:\n- RO / R₂O (플럭스): Na₂O, K₂O, CaO, MgO, ZnO, BaO, Li₂O 등 — 합계를 1.0으로 통일\n- R₂O₃ (양쪽성/안정제): Al₂O₃, B₂O₃ 등\n- RO₂ (유리 형성제): SiO₂, TiO₂, ZrO₂ 등\n\n핵심 비율:\n- SiO₂:Al₂O₃ 비율 > 8:1 → 광택(glossy) 경향\n- SiO₂:Al₂O₃ 비율 3-5:1 → 무광(matte) 경향\n- SiO₂ 범위 Cone 6 기준: 3.0~4.5 (안정), 4.5+ (고광택)\n- Al₂O₃ 범위 Cone 6 기준: 0.25~0.45 (표준)\n\n한계: Seger 모델은 저온(Cone 06-04)에서는 효과가 떨어진다. \n보론(B₂O₃)은 유리 형성제이자 플럭스 역할을 동시에 하므로 \n단순 그룹 분류가 어렵다. 이 경우 Mole%를 보완적으로 활용.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Seger Formula",
+      "category": "chemistry_method",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "stability",
+        "melting",
+        "comparison"
+      ],
+      "related_terms": [
+        "Unity Formula",
+        "Flux",
+        "Al2O3",
+        "SiO2",
+        "Glaze Chemistry"
+      ],
+      "url": "https://digitalfire.com/glossary/seger+formula"
+    }
+  },
+  {
+    "chunk_id": "DF_GLAZE_CHEMISTRY_DEF",
+    "text": "[용어: Glaze Chemistry]\n[정의] 유약의 산화물 화학 구성이 소성 후 특성(발색, 표면, 경도, 질감, 용융 온도, 열팽창 등)에 미치는 영향을 연구하는 분야.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Glaze Chemistry",
+      "category": "chemistry_method",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "prediction",
+        "formulation",
+        "stability"
+      ],
+      "key_phrases": [
+        "glaze chemistry",
+        "oxide chemistry",
+        "formula",
+        "analysis"
+      ],
+      "url": "https://digitalfire.com/glossary/glaze+chemistry"
+    }
+  },
+  {
+    "chunk_id": "DF_GLAZE_CHEMISTRY_C00",
+    "text": "[용어: Glaze Chemistry] [chemistry_method]\n유약 화학의 핵심 원리:\n1. 레시피 → 분자식(Formula) 변환: 각 원료의 LOI(강열감량)를 고려해 산화물 몰 비율로 환산\n2. 산화물 역할 분류:\n   - 유리 형성제(RO₂): SiO₂(주), B₂O₃(보조)\n   - 플럭스(RO/R₂O): CaO, K₂O, Na₂O, MgO, ZnO, BaO, Li₂O\n   - 안정제(R₂O₃): Al₂O₃(주), B₂O₃(양쪽성)\n3. 예측 가능 특성: 용융 거동, 경도, 내구성, 열팽창계수, 발색, 광택/무광, 결정화\n\n실무 접근법:\n- 동일 UMF를 가진 레시피는 소성 후 거의 동일하게 거동\n- 단, 원료의 광물학적 특성(particle physics)이 화학식만큼 중요\n- 같은 Al₂O₃라도 카올린 vs 소성 알루미나는 용융 거동이 완전히 다름",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Glaze Chemistry",
+      "category": "chemistry_method",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "prediction",
+        "formulation",
+        "stability"
+      ],
+      "related_terms": [
+        "Seger Formula",
+        "Flux",
+        "Oxide",
+        "UMF",
+        "LOI"
+      ],
+      "url": "https://digitalfire.com/glossary/glaze+chemistry"
+    }
+  },
+  {
+    "chunk_id": "DF_CALCULATED_THERMAL_EXPANSION_DEF",
+    "text": "[용어: Calculated Thermal Expansion]\n[정의] 유약의 화학 조성으로부터 계산되는 열팽창계수. 점토 소지와의 열팽창 적합성(Glaze Fit) 판단에 사용.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Calculated Thermal Expansion",
+      "category": "chemistry_method",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "stability",
+        "fit",
+        "defect_prevention"
+      ],
+      "key_phrases": [
+        "thermal expansion",
+        "crazing",
+        "shivering",
+        "fit"
+      ],
+      "url": "https://digitalfire.com/glossary/calculated+thermal+expansion"
+    }
+  },
+  {
+    "chunk_id": "DF_CALCULATED_THERMAL_EXPANSION_C00",
+    "text": "[용어: Calculated Thermal Expansion] [chemistry_method]\n열팽창계수(CTE) 계산 원리:\n- 각 산화물의 열팽창 기여값(coefficient)을 UMF 비율에 곱해 합산\n- 유약 CTE > 소지 CTE → 크레이징(crazing, 균열) 발생\n- 유약 CTE < 소지 CTE → 쉬버링(shivering, 박리) 발생\n- 이상적: 유약 CTE가 소지보다 약간 낮게 설정 → 압축응력으로 강도 증가\n\n주요 산화물의 열팽창 기여:\n- 높은 팽창: Na₂O, K₂O, Li₂O (알칼리 금속)\n- 중간 팽창: CaO, BaO\n- 낮은 팽창: MgO, ZnO, Al₂O₃\n- 감소 효과: SiO₂(높은 비율), B₂O₃\n\n실무 팁: 계산값은 근사치이므로 실제 소성 테스트로 반드시 검증 필요",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Calculated Thermal Expansion",
+      "category": "chemistry_method",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "stability",
+        "fit",
+        "defect_prevention"
+      ],
+      "related_terms": [
+        "Glaze Crazing",
+        "Glaze Shivering",
+        "Glaze Fit",
+        "Seger Formula"
+      ],
+      "url": "https://digitalfire.com/glossary/calculated+thermal+expansion"
+    }
+  },
+  {
+    "chunk_id": "DF_LOI_DEF",
+    "text": "[용어: LOI]\n[정의] 원료를 고온 소성 시 CO₂, H₂O 등 휘발성 성분이 제거되며 감소하는 무게 비율(%). 유약 화학 계산 시 반드시 보정 필요.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "LOI",
+      "category": "chemistry_method",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "calculation",
+        "material",
+        "chemistry"
+      ],
+      "key_phrases": [
+        "LOI",
+        "loss on ignition",
+        "weight loss"
+      ],
+      "url": "https://digitalfire.com/glossary/loi"
+    }
+  },
+  {
+    "chunk_id": "DF_LOI_C00",
+    "text": "[용어: LOI] [chemistry_method]\nLOI(강열감량) 적용 원리:\n- 탄산칼슘(Whiting, CaCO₃): LOI 약 44% — CO₂ 방출, CaO만 유약에 기여\n- 카올린(Kaolin): LOI 약 13-14% — 결정수 방출\n- 석회석: LOI 40%+\n- 프릿(Frit): LOI 0% — 이미 소성된 상태\n\n계산 예시:\n100g Whiting(CaCO₃) → LOI 44% → 유약에 기여하는 CaO = 56g\n→ UMF 계산 시 56g 기준으로 몰수 계산\n\n크롤러 vs 분석 소프트웨어:\n- Insight-live, Glazy 등에서 자동 보정\n- 수동 계산 시 각 원료의 LOI를 반드시 차감",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "LOI",
+      "category": "chemistry_method",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "calculation",
+        "material",
+        "chemistry"
+      ],
+      "related_terms": [
+        "Batch Recipe",
+        "Calcination",
+        "Glaze Chemistry",
+        "Whiting"
+      ],
+      "url": "https://digitalfire.com/glossary/loi"
+    }
+  },
+  {
+    "chunk_id": "DF_SIO2_DEF",
+    "text": "[용어: SiO2]\n[정의] 유약의 주요 유리 형성제. 유리 네트워크의 골격을 형성하며 내구성, 경도, 화학적 저항성을 부여.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "SiO2",
+      "category": "oxide",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "gloss",
+        "durability",
+        "stability",
+        "glass_former"
+      ],
+      "key_phrases": [
+        "silica",
+        "sio2",
+        "glass former",
+        "glass network"
+      ],
+      "url": "https://digitalfire.com/glossary/sio2"
+    }
+  },
+  {
+    "chunk_id": "DF_SIO2_C00",
+    "text": "[용어: SiO2] [oxide]\nSiO₂(실리카)의 유약 내 역할:\n기능: 유리 형성제(RO₂). 유리 네트워크의 기본 구조체\n- 표준 범위: Cone 10 기준 3.5-5.0 / Cone 6 기준 3.0-4.5 (UMF)\n- SiO₂↑ → 내구성↑, 용융 온도↑, 크레이징 위험↓, 광택↑\n- SiO₂ 과다 → 언더파이어드(underfired) 무광, 결정화 억제\n- SiO₂ 부족 → 내화학성↓, 광택 저하, 리칭(leaching) 위험\n\n원료 공급원: Silica(flint), Potassium feldspar, Kaolin, Wollastonite 등\nSiO₂:Al₂O₃ 비율(Si:Al ratio):\n- >8:1 → 광택 경향\n- 5-8:1 → 반광택\n- <5:1 → 무광 또는 매트 경향\n주요 열팽창 기여: 중간 (0.035×10⁻⁶/°C per mole)",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "SiO2",
+      "category": "oxide",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "gloss",
+        "durability",
+        "stability",
+        "glass_former"
+      ],
+      "related_terms": [
+        "Al2O3",
+        "B2O3",
+        "Glossy Glaze",
+        "Matte Glaze",
+        "Glaze Durability"
+      ],
+      "url": "https://digitalfire.com/glossary/sio2"
+    }
+  },
+  {
+    "chunk_id": "DF_AL2O3_DEF",
+    "text": "[용어: Al2O3]\n[정의] 유약의 주요 안정제(양쪽성 산화물). 유리 점도를 높여 흘러내림 방지, 표면 경도와 화학적 내구성 부여.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Al2O3",
+      "category": "oxide",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "matte",
+        "stability",
+        "viscosity",
+        "hardness"
+      ],
+      "key_phrases": [
+        "alumina",
+        "al2o3",
+        "stabilizer",
+        "refractory"
+      ],
+      "url": "https://digitalfire.com/glossary/al2o3"
+    }
+  },
+  {
+    "chunk_id": "DF_AL2O3_C00",
+    "text": "[용어: Al2O3] [oxide]\nAl₂O₃(알루미나)의 유약 내 역할:\n기능: 안정제(R₂O₃). 유리 점도 조절자\n- 표준 범위: Cone 10 기준 0.3-0.5 / Cone 6 기준 0.2-0.45 (UMF)\n- Al₂O₃↑ → 무광(matte)↑, 점도↑, 흘러내림↓, 경도↑\n- Al₂O₃ 과다 → 완전 내화성, 유약 미용융\n- Al₂O₃ 부족 → 과도한 흘러내림, 결정화 촉진\n\n원료 공급원: Kaolin(주), Calcined alumina, Ball clay, Feldspar\n광물학적 주의: \n- 카올린으로 공급 시: 유리 네트워크에 잘 용해\n- 소성 알루미나로 공급 시: 용해 속도 훨씬 느림 → 동일 UMF라도 다른 결과\n매트 메커니즘: 고 Al₂O₃ → 냉각 시 미세 결정(mullite, anorthite) 형성",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Al2O3",
+      "category": "oxide",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "matte",
+        "stability",
+        "viscosity",
+        "hardness"
+      ],
+      "related_terms": [
+        "SiO2",
+        "Kaolin",
+        "Matte Glaze",
+        "Glaze Melt Fluidity"
+      ],
+      "url": "https://digitalfire.com/glossary/al2o3"
+    }
+  },
+  {
+    "chunk_id": "DF_CAO_DEF",
+    "text": "[용어: CaO]\n[정의] 가장 중요한 알칼리토류 플럭스. 내구성이 높은 유리 구조 형성. 고온(Cone 8+)에서 강력한 플럭스.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "CaO",
+      "category": "oxide",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "flux",
+        "durability",
+        "matte_mechanism",
+        "color_influence"
+      ],
+      "key_phrases": [
+        "calcia",
+        "cao",
+        "calcium",
+        "whiting",
+        "wollastonite"
+      ],
+      "url": "https://digitalfire.com/glossary/cao"
+    }
+  },
+  {
+    "chunk_id": "DF_CAO_C00",
+    "text": "[용어: CaO] [oxide]\nCaO(칼시아)의 유약 내 역할:\n기능: 플럭스(RO). 고온에서 매우 효과적\n- 표준 범위: Cone 10 기준 0.3-0.7 / Cone 6 기준 0.2-0.5 (UMF)\n- CaO↑ → 내구성↑, 광택↑(중간 농도), 무광(고농도: Calcia Matte)\n- CaO 고함량(0.6+) → 냉각 시 anorthite/wollastonite 결정 → 칼시아 매트 효과\n\n발색 영향:\n- 동(Cu): CaO 환경에서 청록색(turquoise) 발색 촉진\n- 코발트: CaO에서 선명한 청색\n- 스테인 호환성: 보라/적 계열 스테인은 높은 CaO 함량 필요\n\n원료 공급원: Whiting(CaCO₃), Wollastonite(CaSiO₃), Limestone, Dolomite\n열팽창 기여: 중간-낮음 → 크레이징 저위험 플럭스",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "CaO",
+      "category": "oxide",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "flux",
+        "durability",
+        "matte_mechanism",
+        "color_influence"
+      ],
+      "related_terms": [
+        "Calcia Matte",
+        "Flux",
+        "Whiting",
+        "Celadon Glaze"
+      ],
+      "url": "https://digitalfire.com/glossary/cao"
+    }
+  },
+  {
+    "chunk_id": "DF_FE2O3_DEF",
+    "text": "[용어: Fe2O3]\n[정의] 도예에서 가장 중요한 발색 산화물. 소성 분위기와 농도에 따라 황색~갈색~청회색~흑색까지 다양한 발색.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Fe2O3",
+      "category": "oxide",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "colorant",
+        "reduction",
+        "oxidation",
+        "tenmoku",
+        "celadon"
+      ],
+      "key_phrases": [
+        "iron",
+        "fe2o3",
+        "iron oxide",
+        "tenmoku",
+        "celadon",
+        "iron saturate"
+      ],
+      "url": "https://digitalfire.com/glossary/fe2o3"
+    }
+  },
+  {
+    "chunk_id": "DF_FE2O3_C00",
+    "text": "[용어: Fe2O3] [oxide]\nFe₂O₃(산화철)의 발색 메커니즘:\n산화 소성(Oxidation):\n- 0.5-2%: 크림~아이보리, 베이지\n- 2-4%: 황갈색~황색\n- 4-8%: 갈색~적갈색\n- 8%+: 진갈색~흑갈색\n\n환원 소성(Reduction):\n- 1-2%: 청자(Celadon) — Fe²⁺ 이온이 청회색 발색\n- 4-6%: 철화(Iron-decorated) — 철갈색~회색\n- 10%+: 천목(Tenmoku) — 흑색 기본 + 유용(oil spot) 변화\n\n중요 발색 메커니즘:\n- Fe³⁺(산화 환경) → 황/갈/적색 계열\n- Fe²⁺(환원 환경) → 청/녹/회색 계열\n- Fe₃O₄(자철석 결정) → 오일 스팟, 토끼털(rabbit fur) 효과\n\n플럭스 역할: Fe₂O₃는 고온에서 약한 플럭스 역할도 함\n공급원: Iron oxide red, Iron oxide black, Albany slip, Redart clay",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Fe2O3",
+      "category": "oxide",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "colorant",
+        "reduction",
+        "oxidation",
+        "tenmoku",
+        "celadon"
+      ],
+      "related_terms": [
+        "Tenmoku",
+        "Celadon Glaze",
+        "Reduction Firing",
+        "Iron Red Glaze",
+        "Oil Spot Glaze"
+      ],
+      "url": "https://digitalfire.com/glossary/fe2o3"
+    }
+  },
+  {
+    "chunk_id": "DF_K2O_DEF",
+    "text": "[용어: K2O]\n[정의] 알칼리 플럭스. 높은 열팽창계수. 광택 유약 제조에 필수. 포타슘 장석(Potash Feldspar)의 주요 플럭스 성분.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "K2O",
+      "category": "oxide",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "flux",
+        "gloss",
+        "high_expansion",
+        "colorant_modifier"
+      ],
+      "key_phrases": [
+        "potassium",
+        "k2o",
+        "feldspar",
+        "potash"
+      ],
+      "url": "https://digitalfire.com/glossary/k2o"
+    }
+  },
+  {
+    "chunk_id": "DF_K2O_C00",
+    "text": "[용어: K2O] [oxide]\nK₂O(포타슘 산화물)의 유약 내 역할:\n기능: 강력한 플럭스(R₂O). 높은 열팽창\n- 표준 범위: 0.1-0.4 (UMF)\n- K₂O↑ → 광택↑, 흘러내림↑, 열팽창↑, 크레이징 위험↑\n- Na₂O와 함께 알칼리 플럭스 그룹 형성 (K/Na 비율이 발색에 영향)\n\n발색 영향:\n- 구리: K₂O 환경에서 녹색/청록색\n- 코발트: 선명한 청색 발색\n\n원료 공급원: Potash Feldspar(주: KAlSi₃O₈), Nepheline Syenite\n열팽창: 매우 높음 (약 0.33×10⁻⁶/°C) → 크레이징 주의\nNa₂O와 비교: K₂O는 Na₂O보다 광택이 약간 더 고급스러운 질감",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "K2O",
+      "category": "oxide",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "flux",
+        "gloss",
+        "high_expansion",
+        "colorant_modifier"
+      ],
+      "related_terms": [
+        "Na2O",
+        "Feldspar",
+        "Flux",
+        "Glaze Crazing",
+        "Calculated Thermal Expansion"
+      ],
+      "url": "https://digitalfire.com/glossary/k2o"
+    }
+  },
+  {
+    "chunk_id": "DF_NA2O_DEF",
+    "text": "[용어: Na2O]\n[정의] 강력한 알칼리 플럭스. 가장 높은 열팽창계수 중 하나. 청색/청록색 발색 촉진. 구리 유약에서 청록색 발색의 핵심.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Na2O",
+      "category": "oxide",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "flux",
+        "high_expansion",
+        "alkaline_color",
+        "turquoise"
+      ],
+      "key_phrases": [
+        "sodium",
+        "na2o",
+        "soda",
+        "nepheline",
+        "soda ash"
+      ],
+      "url": "https://digitalfire.com/glossary/na2o"
+    }
+  },
+  {
+    "chunk_id": "DF_NA2O_C00",
+    "text": "[용어: Na2O] [oxide]\nNa₂O(소다)의 유약 내 역할:\n기능: 매우 강력한 플럭스(R₂O). 최고 수준 열팽창\n- 표준 범위: 0.05-0.3 (UMF)\n- Na₂O↑ → 용융점↓↓, 광택↑, 열팽창↑↑, 크레이징 위험↑↑\n- Na₂O 다량 함유 유약 → 세월이 지나면 표면 흐림(clouding) 위험\n\n발색 영향:\n- 구리(CuO): Na₂O 환경에서 강렬한 터키석(turquoise) 청록색\n- 알칼리 발색(Alkaline colors): Na₂O/K₂O가 많으면 구리가 청색~청록색으로 발색\n\n원료 공급원: Soda Feldspar, Nepheline Syenite, Soda Ash(Na₂CO₃), Frits\nBoron과 조합: Na₂O의 높은 열팽창을 B₂O₃의 낮은 열팽창으로 보완",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Na2O",
+      "category": "oxide",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "flux",
+        "high_expansion",
+        "alkaline_color",
+        "turquoise"
+      ],
+      "related_terms": [
+        "K2O",
+        "Flux",
+        "Glaze Crazing",
+        "Copper colorant"
+      ],
+      "url": "https://digitalfire.com/glossary/na2o"
+    }
+  },
+  {
+    "chunk_id": "DF_MGO_DEF",
+    "text": "[용어: MgO]\n[정의] 고온에서 유효한 플럭스. 특유의 실키(silky) 무광 표면 생성. 발색 억제 효과가 있어 중성적 매트 유약에 활용.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "MgO",
+      "category": "oxide",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "matte",
+        "silky_surface",
+        "color_suppression",
+        "flux"
+      ],
+      "key_phrases": [
+        "magnesia",
+        "mgo",
+        "talc",
+        "dolomite",
+        "silky matte"
+      ],
+      "url": "https://digitalfire.com/glossary/mgo"
+    }
+  },
+  {
+    "chunk_id": "DF_MGO_C00",
+    "text": "[용어: MgO] [oxide]\nMgO(마그네시아)의 유약 내 역할:\n기능: 플럭스(RO). 고온에서 더 효과적\n- 표준 범위: 0.1-0.4 (UMF)\n- MgO↑ → 실키 매트(silky matte) 표면, 발색 억제\n- MgO 고함량(0.4+) → 점도↑, 특유의 크리미(creamy) 무광 표면\n\n실키 매트 메커니즘:\n- 냉각 시 Enstatite(MgSiO₃) 미세 결정 형성 → 빛 산란 → 매트\n- CaO 매트(거친 표면)와 달리 부드럽고 촉감 좋은 매트 생성\n\n발색 영향(중요!):\n- MgO는 스테인 발색 억제 → 보라색, 적색 스테인과 함께 사용 시 발색 방해\n- 결정 구조가 스테인 발색단을 차단하는 메커니즘\n\n원료 공급원: Talc(Mg₃Si₄O₁₀(OH)₂), Dolomite(CaMg(CO₃)₂)",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "MgO",
+      "category": "oxide",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "matte",
+        "silky_surface",
+        "color_suppression",
+        "flux"
+      ],
+      "related_terms": [
+        "CaO",
+        "Matte Glaze",
+        "Flux",
+        "Ceramic Stain"
+      ],
+      "url": "https://digitalfire.com/glossary/mgo"
+    }
+  },
+  {
+    "chunk_id": "DF_ZNO_DEF",
+    "text": "[용어: ZnO]\n[정의] 복합적 역할의 산화물. 중간 온도에서 플럭스이자 광학적 유백제. 결정유(Crystalline Glaze)의 필수 성분. 무광 촉진.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "ZnO",
+      "category": "oxide",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "crystalline",
+        "matte",
+        "flux",
+        "color_modifier"
+      ],
+      "key_phrases": [
+        "zinc",
+        "zno",
+        "crystalline",
+        "matte"
+      ],
+      "url": "https://digitalfire.com/glossary/zno"
+    }
+  },
+  {
+    "chunk_id": "DF_ZNO_C00",
+    "text": "[용어: ZnO] [oxide]\nZnO(산화아연)의 유약 내 역할:\n기능: 플럭스 + 유백제 + 결정 촉진제 (다목적 산화물)\n- 표준 범위: 0.0-0.3 (UMF)\n- ZnO + 고SiO₂ → 결정유(Crystalline Glaze) 핵심 조합\n- ZnO 중간 농도 → 매트~반광택\n- ZnO 소량 → 광택 향상, 발색 선명도↑\n\n결정 유약 메커니즘:\n- ZnO + SiO₂ → Willemite(Zn₂SiO₄) 결정 성장\n- 저 Al₂O₃ 유약에서 결정 성장 최적화\n- 냉각 속도 조절로 결정 크기 제어 가능\n\n발색 영향:\n- 구리: ZnO와 함께 청록색 → 회색/갈색 계열로 변색 가능\n- 철: ZnO + Fe₂O₃ → 황갈색~겨자색 발색\n\n원료 공급원: Zinc Oxide(직접), 일부 Frits",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "ZnO",
+      "category": "oxide",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "crystalline",
+        "matte",
+        "flux",
+        "color_modifier"
+      ],
+      "related_terms": [
+        "Crystalline glazes",
+        "Flux",
+        "Matte Glaze",
+        "Fe2O3"
+      ],
+      "url": "https://digitalfire.com/glossary/zno"
+    }
+  },
+  {
+    "chunk_id": "DF_TIO2_DEF",
+    "text": "[용어: TiO2]\n[정의] 강력한 변색제(variegator)이자 부분 유백제. 루틸(Rutile)의 주성분. 표면에 독특한 얼룩/질감 효과 생성.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "TiO2",
+      "category": "oxide",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "variegation",
+        "opacifier",
+        "visual_effect",
+        "rutile"
+      ],
+      "key_phrases": [
+        "titanium",
+        "tio2",
+        "rutile",
+        "variegation",
+        "opacifier"
+      ],
+      "url": "https://digitalfire.com/glossary/tio2"
+    }
+  },
+  {
+    "chunk_id": "DF_TIO2_C00",
+    "text": "[용어: TiO2] [oxide]\nTiO₂(티타니아)의 유약 내 역할:\n기능: 유백제 + 변색제(variegator). 독특한 시각 효과 생성\n- 일반 범위: 0.05-0.15 (UMF)\n- TiO₂↑ → 유백성↑, 변색(variegation)↑, 크리미 표면\n- 소량(1-3%): 발색 변형, 흥미로운 얼룩 효과\n- 다량(8-12%): 강한 유백, titanium-crystalline 형성 가능\n\n루틸(Rutile) vs 순수 TiO₂:\n- 루틸 = TiO₂ + 미량 Fe₂O₃ → 변색 효과가 더 강렬\n- 루틸의 Fe₂O₃가 발색 복잡성에 기여\n\n발색 영향(핵심):\n- 대부분의 스테인과 함께 발색 변화 유발\n- 코발트와 함께: 청색 → 보라/청록 계열\n- 구리와 함께: 예측 불가한 얼룩 효과\n\n원료 공급원: Rutile(광물), Titanium Dioxide(합성)",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "TiO2",
+      "category": "oxide",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "variegation",
+        "opacifier",
+        "visual_effect",
+        "rutile"
+      ],
+      "related_terms": [
+        "Rutile Glaze",
+        "Variegation",
+        "Opacifier",
+        "ZrO2"
+      ],
+      "url": "https://digitalfire.com/glossary/tio2"
+    }
+  },
+  {
+    "chunk_id": "DF_COO_DEF",
+    "text": "[용어: CoO]\n[정의] 세라믹 최강의 청색 발색제. 소량(0.5-1%)으로 강렬한 청색 발색. 역사적으로 동아시아 청화백자에 사용.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "CoO",
+      "category": "oxide",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "blue",
+        "colorant",
+        "stable",
+        "strong_colorant"
+      ],
+      "key_phrases": [
+        "cobalt",
+        "coo",
+        "blue",
+        "cobalt blue"
+      ],
+      "url": "https://digitalfire.com/glossary/coo"
+    }
+  },
+  {
+    "chunk_id": "DF_COO_C00",
+    "text": "[용어: CoO] [oxide]\nCoO(산화코발트)의 발색 특성:\n발색 메커니즘: Co²⁺ 이온의 d-d 전자전이 → 청색 흡수\n- 산화/환원 모두에서 안정적 청색 발색 (가장 안정적인 발색제 중 하나)\n- 사용 범위: 0.5-2% (매우 강력 → 소량 사용)\n\n발색 수식:\n- CaO/MgO 환경: 순수 청색 (매우 선명)\n- ZnO 환경: 청색 + 보라/분홍 계열 변화\n- MgO 다량: 발색 약화 가능\n\n혼합 발색:\n- CoO + Fe₂O₃: 청회색~흑청색\n- CoO + MnO₂: 보라~흑색\n- CoO + CuO + MnO₂: 흑색\n\n독성 주의: 코발트 분말은 흡입 독성 — 마스크 필수\n공급원: Cobalt Oxide(CoO), Cobalt Carbonate(CoCO₃, 더 부드럽게 분산)",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "CoO",
+      "category": "oxide",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "blue",
+        "colorant",
+        "stable",
+        "strong_colorant"
+      ],
+      "related_terms": [
+        "CuO",
+        "Fe2O3",
+        "Ceramic Stain",
+        "Oxidation Firing"
+      ],
+      "url": "https://digitalfire.com/glossary/coo"
+    }
+  },
+  {
+    "chunk_id": "DF_CUO_DEF",
+    "text": "[용어: CuO]\n[정의] 소성 분위기에 가장 민감한 발색 산화물. 산화 소성 → 녹색/청록색, 환원 소성 → 구리 적색(Copper Red).",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "CuO",
+      "category": "oxide",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "colorant",
+        "atmosphere_sensitive",
+        "copper_red",
+        "turquoise",
+        "green"
+      ],
+      "key_phrases": [
+        "copper",
+        "cuo",
+        "green",
+        "turquoise",
+        "reduction copper red"
+      ],
+      "url": "https://digitalfire.com/glossary/cuo"
+    }
+  },
+  {
+    "chunk_id": "DF_CUO_C00",
+    "text": "[용어: CuO] [oxide]\nCuO(산화구리)의 발색 특성:\n산화 소성:\n- 중성 유약(CaO/MgO 기반): 녹색(green)\n- 알칼리 유약(Na₂O/K₂O 기반): 청록색(turquoise)\n- 사용 범위: 1-3%\n\n환원 소성 (구리 적색 — Copper Red):\n- 환원 분위기에서 Cu²⁺ → Cu⁰(금속 구리) 또는 Cu⁺(Cu₂O)\n- 고알칼리(Na₂O/K₂O), 저알루미나, 고실리카 유약에서 적색 발현\n- 균요(Jun), 동홍유(Copper Red) 계열\n- 매우 민감: 소성 분위기 미세 변화로 색상 급변\n\n독성 주의: 구리 분말은 흡입 독성\n공급원: Copper Oxide(CuO, 흑색), Copper Carbonate(CuCO₃, 녹색 분말)\n\n발색 범위: 적색(환원) → 청록색(산화알칼리) → 녹색(산화중성) → 흑색(과다)",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "CuO",
+      "category": "oxide",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "colorant",
+        "atmosphere_sensitive",
+        "copper_red",
+        "turquoise",
+        "green"
+      ],
+      "related_terms": [
+        "Reduction Firing",
+        "Oxidation Firing",
+        "Na2O",
+        "K2O"
+      ],
+      "url": "https://digitalfire.com/glossary/cuo"
+    }
+  },
+  {
+    "chunk_id": "DF_B2O3_DEF",
+    "text": "[용어: B2O3]\n[정의] 유리 형성제이자 플럭스. 낮은 열팽창계수로 크레이징 완화. 저~중온 유약에서 필수적. 보론 프릿의 핵심 성분.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "B2O3",
+      "category": "oxide",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "low_expansion",
+        "flux",
+        "glass_former",
+        "low_fire",
+        "stability"
+      ],
+      "key_phrases": [
+        "boron",
+        "b2o3",
+        "borate",
+        "frit",
+        "low thermal expansion"
+      ],
+      "url": "https://digitalfire.com/glossary/b2o3"
+    }
+  },
+  {
+    "chunk_id": "DF_B2O3_C00",
+    "text": "[용어: B2O3] [oxide]\nB₂O₃(산화붕소)의 복합적 역할:\n이중 역할: 유리 형성제(RO₂처럼) + 플럭스(저온에서)\n- Seger Formula의 한계: B₂O₃는 두 그룹에 걸쳐 역할 → 단순 분류 어려움\n\n핵심 특성:\n- 낮은 열팽창계수 → 크레이징 위험 대폭 감소\n- 용융 온도 대폭 저하 → 저화도 유약에서 필수\n- 유리 투명도 향상\n- 내화학성 개선 (내구성↑)\n\n보론 블루(Boron Blue):\n- B₂O₃ + 높은 알칼리 → 실리케이트 유리 내 산란으로 청색 유백 효과\n- 마졸리카(Majolica), 델프트(Delft) 유약의 기반\n\n공급원: Gerstley Borate(광물, LOI 높음), Colemanite, Frits(안정적)\nFrit 사용 권장: 자연 붕산염은 가변성 → Frit가 더 예측 가능",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "B2O3",
+      "category": "oxide",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "low_expansion",
+        "flux",
+        "glass_former",
+        "low_fire",
+        "stability"
+      ],
+      "related_terms": [
+        "Frit",
+        "Boron Blue",
+        "Glaze Crazing",
+        "Flux",
+        "Low Fire Glaze"
+      ],
+      "url": "https://digitalfire.com/glossary/b2o3"
+    }
+  },
+  {
+    "chunk_id": "DF_CELADON_GLAZE_DEF",
+    "text": "[용어: Celadon Glaze]\n[정의] 철 산화물(1-2%)을 환원 소성하여 청회색~청록색을 발현하는 역사적 유약 유형. 중국 송대 이래 동아시아 도예의 정수.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Celadon Glaze",
+      "category": "glaze_type",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "iron",
+        "reduction",
+        "historical",
+        "korea",
+        "china",
+        "blue_green"
+      ],
+      "key_phrases": [
+        "celadon",
+        "청자",
+        "iron",
+        "reduction",
+        "pale green",
+        "blue-green"
+      ],
+      "url": "https://digitalfire.com/glossary/celadon+glaze"
+    }
+  },
+  {
+    "chunk_id": "DF_CELADON_GLAZE_C00",
+    "text": "[용어: Celadon Glaze] [glaze_type]\n청자유약(Celadon)의 화학적 특성:\n핵심 화학:\n- Fe₂O₃: 1-2% (청자 발색의 핵심)\n- 환원 분위기에서 Fe³⁺ → Fe²⁺ 전환 → 청회색 발색\n- 고 SiO₂, 적정 CaO, 저 Al₂O₃ 유약 기반\n\n발색 유형:\n- Blue Celadon: Fe 0.5-1%, 저 TiO₂ → 청색 기미\n- Green Celadon: Fe 1-2%, TiO₂ 미량 → 녹색 기미\n- 황청자: 산화 소성 → 황록색\n\n역사적 계보:\n- 중국 월요(越窯), 여요(汝窯), 관요(官窯)\n- 한국 고려청자 (최고봉: 비색/翡色)\n- 일본 세이지(青磁)\n\n현대 레시피 핵심:\n- 베이스 투명유 + Fe₂O₃ 1-2%\n- 소성: Cone 9-11 환원 (이상적)\n- 냉각: 느린 냉각 → 청색 기미 강화",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Celadon Glaze",
+      "category": "glaze_type",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "iron",
+        "reduction",
+        "historical",
+        "korea",
+        "china",
+        "blue_green"
+      ],
+      "related_terms": [
+        "Fe2O3",
+        "Reduction Firing",
+        "Tenmoku",
+        "SiO2"
+      ],
+      "url": "https://digitalfire.com/glossary/celadon+glaze"
+    }
+  },
+  {
+    "chunk_id": "DF_TENMOKU_DEF",
+    "text": "[용어: Tenmoku]\n[정의] Fe₂O₃ 10%+ 의 고철분 환원 유약. 흑색 기본 유리에 油滴(오일 스팟), 兎毫(토호/토끼털) 등의 결정 효과 발현.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Tenmoku",
+      "category": "glaze_type",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "iron",
+        "reduction",
+        "crystalline_effect",
+        "historical",
+        "china",
+        "japan"
+      ],
+      "key_phrases": [
+        "tenmoku",
+        "천목",
+        "iron saturate",
+        "oil spot",
+        "hare fur",
+        "black"
+      ],
+      "url": "https://digitalfire.com/glossary/tenmoku"
+    }
+  },
+  {
+    "chunk_id": "DF_TENMOKU_C00",
+    "text": "[용어: Tenmoku] [glaze_type]\n천목유약(Tenmoku)의 화학적 특성:\n핵심 화학:\n- Fe₂O₃: 8-15% (철포화/iron-saturate)\n- 고온 환원 소성 필수\n- 소지: 내화성 석기 또는 자기\n\n주요 표면 효과 유형:\n1. 油滴(油滴文/Oil Spot): 철 결정이 둥근 반점 형성\n   - Fe₃O₄ 결정이 유약 표면에 석출\n   - 냉각 속도 조절로 반점 크기 제어\n2. 兎毫(Hare's Fur/Rabbit Fur): 세로 줄무늬 효과\n   - 소성 중 가스 방출 흔적 + 철 결정\n3. 曜變(Yohen): 최고급 — 무지개빛 결정 (극히 희귀)\n\n발색 메커니즘:\n- 흑색 기본: Fe₂O₃ 고농도 → 빛 완전 흡수\n- 결정 효과: 냉각 시 Fe₃O₄ + FeO·SiO₂ 결정 형성\n- 광학 효과: 결정 층위에서 빛 간섭\n\n역사: 중국 송대 建窯(건요), 일본 차도(茶道) 문화에서 최고 가치",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Tenmoku",
+      "category": "glaze_type",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "iron",
+        "reduction",
+        "crystalline_effect",
+        "historical",
+        "china",
+        "japan"
+      ],
+      "related_terms": [
+        "Fe2O3",
+        "Reduction Firing",
+        "Oil Spot Glaze",
+        "Celadon Glaze"
+      ],
+      "url": "https://digitalfire.com/glossary/tenmoku"
+    }
+  },
+  {
+    "chunk_id": "DF_CRYSTALLINE_GLAZES_DEF",
+    "text": "[용어: Crystalline glazes]\n[정의] 냉각 시 유약 표면에 거대한 결정(주로 아연 규산염 Willemite)이 성장하는 유약. 극도의 소성 제어 필요.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Crystalline glazes",
+      "category": "glaze_type",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "crystalline",
+        "zinc",
+        "technical",
+        "artistic",
+        "firing_control"
+      ],
+      "key_phrases": [
+        "crystalline glaze",
+        "crystal",
+        "zinc silicate",
+        "macro crystal"
+      ],
+      "url": "https://digitalfire.com/glossary/crystalline+glazes"
+    }
+  },
+  {
+    "chunk_id": "DF_CRYSTALLINE_GLAZES_C00",
+    "text": "[용어: Crystalline glazes] [glaze_type]\n결정유약(Crystalline Glaze)의 특성:\n핵심 화학:\n- ZnO: 0.3-0.5 (UMF) — 필수\n- SiO₂: 4.0+ — 고함량\n- Al₂O₃: 0.1 이하 — 매우 낮게 유지 (결정 성장 촉진)\n- 용융 플럭스: Na₂O/K₂O 포함\n\n결정 성장 메커니즘:\n1. 최고 소성 온도에서 ZnO + SiO₂ → 용융 상태\n2. 결정 핵 형성 온도(nucleation): 1000-1050°C에서 Hold\n3. 결정 성장 온도(growth): 950-1000°C에서 다단계 Hold\n4. 총 소성 시간: 12-24시간 이상\n\n실무 난제:\n- 저 Al₂O₃ → 유약이 흘러내림 → 캐처(catcher) 필수\n- 결정 크기: 냉각 온도와 Hold 시간으로 조절\n- 전용 소성 프로그램 필수 (릴레이 스위칭 빈도↑)\n- 특수 가마 권장 (Mercury relay, Solid-state relay)\n\n예술성: 각 결정은 유일무이 — 크기·색·패턴이 모두 다름",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Crystalline glazes",
+      "category": "glaze_type",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "crystalline",
+        "zinc",
+        "technical",
+        "artistic",
+        "firing_control"
+      ],
+      "related_terms": [
+        "ZnO",
+        "SiO2",
+        "Firing Schedule",
+        "Glaze Melt Fluidity"
+      ],
+      "url": "https://digitalfire.com/glossary/crystalline+glazes"
+    }
+  },
+  {
+    "chunk_id": "DF_MATTE_GLAZE_DEF",
+    "text": "[용어: Matte Glaze]\n[정의] 표면에서 빛을 산란시켜 광택이 없는 유약. 미세결정 형성, 고 Al₂O₃, 고 CaO 또는 MgO 메커니즘으로 생성.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Matte Glaze",
+      "category": "glaze_type",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "matte",
+        "texture",
+        "al2o3",
+        "calcia",
+        "silky",
+        "crystalline_micro"
+      ],
+      "key_phrases": [
+        "matte",
+        "matte glaze",
+        "al2o3 matte",
+        "calcia matte",
+        "silky"
+      ],
+      "url": "https://digitalfire.com/glossary/matte+glaze"
+    }
+  },
+  {
+    "chunk_id": "DF_MATTE_GLAZE_C00",
+    "text": "[용어: Matte Glaze] [glaze_type]\n무광유약(Matte Glaze) 메커니즘 유형:\n1. 고 Al₂O₃ 매트:\n   - Al₂O₃ 0.5+ → 점도↑, 미결정 형성\n   - 표면 거칠고 내구성 있음\n   - Si:Al 비율 3-5:1\n\n2. 칼시아 매트(Calcia Matte):\n   - CaO 0.6+ → 냉각 시 Anorthite(CaAl₂Si₂O₈), Wollastonite 결정\n   - 표면: 부드럽고 포슬린(porcelain-like)\n   - 사용 온도: Cone 6+\n\n3. 실키 매트(MgO/Talc Matte):\n   - MgO 0.3+ → Enstatite(MgSiO₃) 미세 결정\n   - 표면: 비단처럼 부드럽고 촉감 우수\n   - 대표 예: G2571A (Tony Hansen)\n\n4. 바륨 매트(Barium Matte):\n   - BaO → 강한 매트, 독성 주의\n\n예술적 특성:\n- 매트 = 빛 흡수 → 깊이감, 절제미\n- 촉감 강조 — 결/질감이 시각화됨",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Matte Glaze",
+      "category": "glaze_type",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "matte",
+        "texture",
+        "al2o3",
+        "calcia",
+        "silky",
+        "crystalline_micro"
+      ],
+      "related_terms": [
+        "Al2O3",
+        "CaO",
+        "MgO",
+        "Calcia Matte",
+        "Glossy Glaze"
+      ],
+      "url": "https://digitalfire.com/glossary/matte+glaze"
+    }
+  },
+  {
+    "chunk_id": "DF_GLOSSY_GLAZE_DEF",
+    "text": "[용어: Glossy Glaze]\n[정의] 표면이 매끄럽고 빛 반사율이 높은 유약. 고 SiO₂, B₂O₃, 알칼리 플럭스 조합으로 생성.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Glossy Glaze",
+      "category": "glaze_type",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "gloss",
+        "transparency",
+        "smooth",
+        "si_al_ratio"
+      ],
+      "key_phrases": [
+        "glossy",
+        "gloss",
+        "shine",
+        "high fire gloss"
+      ],
+      "url": "https://digitalfire.com/glossary/glossy+glaze"
+    }
+  },
+  {
+    "chunk_id": "DF_GLOSSY_GLAZE_C00",
+    "text": "[용어: Glossy Glaze] [glaze_type]\n광택유약(Glossy Glaze) 화학적 특성:\n광택 유발 메커니즘:\n- SiO₂ 고함량 → 완전 용융 → 매끄러운 유리 표면\n- B₂O₃ → 표면 장력 감소 → 더 평탄한 표면\n- 알칼리 플럭스(Na₂O/K₂O) → 용융 촉진\n\nSi:Al 비율과 광택:\n- >8:1 → 확실한 광택\n- 5-8:1 → 반광택 (satin)\n- <5:1 → 매트 경향\n\n광택 저하 원인:\n- 언더파이어링 → 완전 용융 안 됨\n- 고 Al₂O₃ → 결정 형성\n- 탈유리화(devitrification) → 냉각 시 결정화\n- 질산염/탄산염 원료 → 가스 기포 → 표면 불규칙\n\n예술적 특성:\n- 광택 = 빛 반사 → 생동감, 습윤감, 깊이감\n- 투명 광택유 → 소지 질감 강조\n- 색 발색 최대화",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Glossy Glaze",
+      "category": "glaze_type",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "gloss",
+        "transparency",
+        "smooth",
+        "si_al_ratio"
+      ],
+      "related_terms": [
+        "SiO2",
+        "B2O3",
+        "Na2O",
+        "Matte Glaze",
+        "Variegation"
+      ],
+      "url": "https://digitalfire.com/glossary/glossy+glaze"
+    }
+  },
+  {
+    "chunk_id": "DF_VARIEGATION_DEF",
+    "text": "[용어: Variegation]\n[정의] 유약 표면의 색상·질감·투명도가 불규칙하게 변화하는 시각적 특성. 리액티브 유약의 핵심 미학.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Variegation",
+      "category": "glaze_type",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "visual_effect",
+        "reactive",
+        "artistic",
+        "unpredictable",
+        "rutile"
+      ],
+      "key_phrases": [
+        "variegation",
+        "reactive glaze",
+        "visual character",
+        "rutile",
+        "titanium"
+      ],
+      "url": "https://digitalfire.com/glossary/variegation"
+    }
+  },
+  {
+    "chunk_id": "DF_VARIEGATION_C00",
+    "text": "[용어: Variegation] [glaze_type]\n변색(Variegation)의 메커니즘:\n엄밀한 정의: 두께에 따른 단순 명암 변화('variation')와 구별. \n유약이 색상·결정성·투명도 등 기본 성질이 불규칙하게 변화하는 것.\n\n주요 변색 메커니즘:\n1. 루틸(Rutile) 변색:\n   - TiO₂ + 미량 Fe₂O₃ → 소성 중 분리/석출 → 줄무늬, 반점\n   - 가장 예측하기 어렵고 아름다운 효과\n\n2. 유약 두께 변화:\n   - 두께에 따른 색 강도 변화 (진한 곳/얕은 곳)\n   - 엣지 효과(edge breakup)\n\n3. 이중 유약(Double Glaze):\n   - 두 유약의 화학 반응 → 흐름, 점, 결정 형성\n\n4. 환원 분위기 변화:\n   - 철 유약에서 국부적 환원 차이 → 발색 변화\n\n5. 결정화(Crystallization):\n   - 냉각 시 미세/거대 결정 불규칙 형성\n\n예술성:\n- 변색 = 우연성과 의도의 공존\n- 도공의 레시피 설계 + 소성 통제 + 재료 물리학",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Variegation",
+      "category": "glaze_type",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "visual_effect",
+        "reactive",
+        "artistic",
+        "unpredictable",
+        "rutile"
+      ],
+      "related_terms": [
+        "TiO2",
+        "Rutile Glaze",
+        "Mechanism",
+        "Reactive Glaze",
+        "Iron Red Glaze"
+      ],
+      "url": "https://digitalfire.com/glossary/variegation"
+    }
+  },
+  {
+    "chunk_id": "DF_REACTIVE_GLAZE_DEF",
+    "text": "[용어: Reactive Glaze]\n[정의] 소성 중 다양한 화학 반응을 통해 불규칙하고 역동적인 표면 효과를 생성하는 유약. 예측 불가한 아름다움이 특징.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Reactive Glaze",
+      "category": "glaze_type",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "artistic",
+        "unpredictable",
+        "dynamic",
+        "visual_character"
+      ],
+      "key_phrases": [
+        "reactive glaze",
+        "variegated",
+        "flowing",
+        "dynamic surface"
+      ],
+      "url": "https://digitalfire.com/glossary/reactive+glaze"
+    }
+  },
+  {
+    "chunk_id": "DF_REACTIVE_GLAZE_C00",
+    "text": "[용어: Reactive Glaze] [glaze_type]\n리액티브 유약(Reactive Glaze)의 특성:\n정의: 소성 조건(온도, 분위기, 두께)에 민감하게 반응하여 \n다양한 시각 효과를 생성하는 유약.\n\n구성 특징:\n- 변색제(variegator) 포함: TiO₂, RuO₂, 금속 산화물 혼합\n- 유동성(melt fluidity) 고의적 설계\n- 이중 레이어 적용 → 반응 유도\n\n산업 vs 예술:\n- 산업: 리액티브 유약 = 불량 → 기피\n- 작가: 리액티브 유약 = 예술 → 선호\n- 결함(핀홀, 반점) → 미적 요소로 재해석\n\n관리 팁:\n- 두꺼운 적용 → 과도한 흘러내림 → 가마 오염\n- 동일 결과 재현 어려움 → 노트 필수\n- 소지 색상과의 상호작용 계산\n\n발색 억제 vs 촉진:\n- MgO 기반 매트 유약 → 리액티브 효과 감소\n- 알칼리/붕규산(borosilicate) 베이스 → 리액티브 효과 최대",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Reactive Glaze",
+      "category": "glaze_type",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "artistic",
+        "unpredictable",
+        "dynamic",
+        "visual_character"
+      ],
+      "related_terms": [
+        "Variegation",
+        "TiO2",
+        "Rutile Glaze",
+        "Melt Fluidity"
+      ],
+      "url": "https://digitalfire.com/glossary/reactive+glaze"
+    }
+  },
+  {
+    "chunk_id": "DF_CERAMIC_GLAZE_DEFECTS_DEF",
+    "text": "[용어: Ceramic Glaze Defects]\n[정의] 소성 후 유약 표면에 나타나는 비정상적 현상. 핀홀, 블리스터, 크레이징, 쉬버링, 크롤링, 리칭, 운탁 등.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Ceramic Glaze Defects",
+      "category": "defect",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "defect",
+        "troubleshooting",
+        "quality_control"
+      ],
+      "key_phrases": [
+        "glaze defects",
+        "pinhole",
+        "blister",
+        "crazing",
+        "crawling",
+        "shivering"
+      ],
+      "url": "https://digitalfire.com/glossary/ceramic+glaze+defects"
+    }
+  },
+  {
+    "chunk_id": "DF_CERAMIC_GLAZE_DEFECTS_C00",
+    "text": "[용어: Ceramic Glaze Defects] [defect]\n유약 결함(Ceramic Glaze Defects) 종류와 원인:\n1. 핀홀(Pinhole):\n   - 원인: 유약/소지에서 가스 방출 → 소성 중 기포 터짐 → 치유 안 됨\n   - 해결: 느린 승온, 고온 홀드, 충분한 소결\n\n2. 크레이징(Crazing, 균열):\n   - 원인: 유약 열팽창 > 소지 열팽창\n   - 해결: SiO₂↑, Al₂O₃↑, Na₂O/K₂O↓, B₂O₃ 추가\n\n3. 쉬버링(Shivering, 박리):\n   - 원인: 유약 열팽창 < 소지 열팽창 → 압축 파손\n   - 해결: 유약 열팽창↑ 또는 소지 변경\n\n4. 크롤링(Crawling, 수축 뭉침):\n   - 원인: 과도한 수축, 소지 오염(기름, 먼지)\n   - 해결: 소지 청결, 카올린↓, 소성 전 긁힘 방지\n\n5. 블리스터(Blister, 기포):\n   - 원인: 유약 내 가스 방출 → 기포 미치유\n   - 해결: 냉각 홀드, 원료 가스 배출 온도 확인\n\n6. 리칭(Leaching):\n   - 원인: 불충분한 SiO₂/Al₂O₃ → 산에 용해\n   - 해결: SiO₂↑, 충분한 소성\n\n7. 컷러리 마킹(Cutlery Marking):\n   - 원인: 유약 경도 부족, Mat",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Ceramic Glaze Defects",
+      "category": "defect",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "defect",
+        "troubleshooting",
+        "quality_control"
+      ],
+      "related_terms": [
+        "Glaze Crazing",
+        "Glaze Pinholing",
+        "Glaze Crawling",
+        "Glaze Shivering"
+      ],
+      "url": "https://digitalfire.com/glossary/ceramic+glaze+defects"
+    }
+  },
+  {
+    "chunk_id": "DF_CERAMIC_GLAZE_DEFECTS_C01",
+    "text": "[용어: Ceramic Glaze Defects] [defect]\nte 표면\n   - 해결: SiO₂↑, 소성 온도↑",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Ceramic Glaze Defects",
+      "category": "defect",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "defect",
+        "troubleshooting",
+        "quality_control"
+      ],
+      "related_terms": [
+        "Glaze Crazing",
+        "Glaze Pinholing",
+        "Glaze Crawling",
+        "Glaze Shivering"
+      ],
+      "url": "https://digitalfire.com/glossary/ceramic+glaze+defects"
+    }
+  },
+  {
+    "chunk_id": "DF_GLAZE_CRAZING_DEF",
+    "text": "[용어: Glaze Crazing]\n[정의] 유약 표면에 망상(網狀) 균열이 발생하는 현상. 유약의 열팽창계수가 소지보다 높을 때 발생.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Glaze Crazing",
+      "category": "defect",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "defect",
+        "thermal_expansion",
+        "cracking",
+        "artistic_craze"
+      ],
+      "key_phrases": [
+        "crazing",
+        "cracks",
+        "thermal expansion mismatch"
+      ],
+      "url": "https://digitalfire.com/glossary/glaze+crazing"
+    }
+  },
+  {
+    "chunk_id": "DF_GLAZE_CRAZING_C00",
+    "text": "[용어: Glaze Crazing] [defect]\n크레이징(Crazing) 상세 분석:\n발생 원인:\n- 유약 CTE > 소지 CTE → 냉각 시 유약이 소지보다 더 수축하려 함 → 인장응력 → 균열\n\n발생 촉진 인자:\n- 고 Na₂O/K₂O (알칼리 플럭스 과다)\n- 저 SiO₂\n- 저 Al₂O₃  \n- 과도한 B₂O₃ (낮은 열팽창이지만 과다 시 구조 취약)\n\n해결 방법 (순서대로):\n1. SiO₂ 증가 (5-10% 증량)\n2. Al₂O₃ 증가 (카올린 추가)\n3. Na₂O↓ K₂O↓ (고팽창 플럭스 감소)\n4. CaO/MgO로 플럭스 치환 (낮은 팽창 플럭스)\n5. 소성 온도 상향 (완전 소결)\n\n예술적 활용:\n- 의도적 크레이징 → \"貫入\" (관입/Kannyuu) 효과\n- 고려/조선 도자기의 미적 요소\n- 크레이징 후 잉크/산화물 문지르기 → 패턴 강조",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Glaze Crazing",
+      "category": "defect",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "defect",
+        "thermal_expansion",
+        "cracking",
+        "artistic_craze"
+      ],
+      "related_terms": [
+        "Calculated Thermal Expansion",
+        "SiO2",
+        "Na2O",
+        "Glaze Fit"
+      ],
+      "url": "https://digitalfire.com/glossary/glaze+crazing"
+    }
+  },
+  {
+    "chunk_id": "DF_FELDSPAR_DEF",
+    "text": "[용어: Feldspar]\n[정의] 유약에서 가장 중요한 원료 광물. SiO₂, Al₂O₃, K₂O 또는 Na₂O를 동시에 공급하는 복합 플럭스.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Feldspar",
+      "category": "material",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "material",
+        "flux_source",
+        "alumina_source",
+        "silica_source"
+      ],
+      "key_phrases": [
+        "feldspar",
+        "장석",
+        "potash feldspar",
+        "soda feldspar",
+        "nepheline"
+      ],
+      "url": "https://digitalfire.com/glossary/feldspar"
+    }
+  },
+  {
+    "chunk_id": "DF_FELDSPAR_C00",
+    "text": "[용어: Feldspar] [material]\n장석(Feldspar) 종류별 특성:\n1. 포타슘 장석(Potash Feldspar, KAlSi₃O₈):\n   - 주요 산화물: K₂O(17%), Al₂O₃(18%), SiO₂(65%)\n   - 고온 플럭스, Cone 9-10에 적합\n   - 브랜드: G-200, Custer, Minspar\n\n2. 소다 장석(Soda Feldspar, NaAlSi₃O₈):\n   - 주요 산화물: Na₂O(12%), Al₂O₃(19%), SiO₂(69%)\n   - 포타슘 장석보다 낮은 용융점\n   - 더 높은 열팽창 → 크레이징 주의\n\n3. 네펠린 시나이트(Nepheline Syenite):\n   - K₂O + Na₂O 혼합, 낮은 SiO₂ → 중온(Cone 6)에서 효과적\n   - Cone 6 유약에서 장석 대체재로 많이 사용\n\n4. 앨바이트(Albite):\n   - 순수 소다 장석\n   - 낮은 소결 온도\n\n유약 내 역할:\n- 단독으로 Cone 9-10에서 유약 역할 가능 (자기유약/自器釉)\n- SiO₂ + Al₂O₃ + 플럭스를 하나의 원료로 제공",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Feldspar",
+      "category": "material",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "material",
+        "flux_source",
+        "alumina_source",
+        "silica_source"
+      ],
+      "related_terms": [
+        "K2O",
+        "Na2O",
+        "Al2O3",
+        "SiO2",
+        "Seger Formula"
+      ],
+      "url": "https://digitalfire.com/glossary/feldspar"
+    }
+  },
+  {
+    "chunk_id": "DF_KAOLIN_DEF",
+    "text": "[용어: Kaolin]\n[정의] Al₂O₃와 SiO₂를 공급하는 주요 점토 광물. 유약에 안정제 역할 + 현탁성 부여.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Kaolin",
+      "category": "material",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "material",
+        "alumina_source",
+        "suspension",
+        "loi"
+      ],
+      "key_phrases": [
+        "kaolin",
+        "고령토",
+        "alumina source",
+        "clay"
+      ],
+      "url": "https://digitalfire.com/glossary/kaolin"
+    }
+  },
+  {
+    "chunk_id": "DF_KAOLIN_C00",
+    "text": "[용어: Kaolin] [material]\n고령토(Kaolin)의 유약 내 역할:\n화학식: Al₂Si₂O₅(OH)₄ → 소성 후 Al₂O₃ + 2SiO₂ + 2H₂O (LOI ~13%)\n\n유약 내 기능:\n1. Al₂O₃ 공급 (주요 안정제 원료)\n2. SiO₂ 공급 (부가적)\n3. 현탁성(suspension) 부여 → 유약 슬러리 안정화\n4. 건조 후 경화 → 소성 전 유약 내구성↑\n\n종류별 특성:\n- EPK Kaolin: 미국 표준, 높은 Al₂O₃, 미세 입자\n- Grolleg Kaolin: 영국산, 고순도, 자기(porcelain)에 적합\n- 소성 카올린(Calcined Kaolin): LOI 0%, 수축 감소\n\n수축 주의:\n- 카올린 과다 → 유약 수축↑ → 크롤링(crawling) 위험\n- 소성 카올린으로 일부 치환 → 수축 감소\n\n중요: 카올린 vs 소성 알루미나(Calcined Alumina):\n- 카올린으로 공급한 Al₂O₃ → 유리 용융에 잘 통합\n- 소성 알루미나 → 용융 안 됨 → 유약 거동 완전히 달라짐",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Kaolin",
+      "category": "material",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "material",
+        "alumina_source",
+        "suspension",
+        "loi"
+      ],
+      "related_terms": [
+        "Al2O3",
+        "Glaze Crawling",
+        "Characterization",
+        "Mineralogy"
+      ],
+      "url": "https://digitalfire.com/glossary/kaolin"
+    }
+  },
+  {
+    "chunk_id": "DF_FRIT_DEF",
+    "text": "[용어: Frit]\n[정의] 원료 혼합물을 미리 고온에서 용융 후 급랭한 유리 분말. 예측 가능하고 일관된 용융 거동. 독성 원소 안전화.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Frit",
+      "category": "material",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "material",
+        "manufactured",
+        "consistent",
+        "low_fire"
+      ],
+      "key_phrases": [
+        "frit",
+        "프릿",
+        "pre-melted",
+        "boron frit",
+        "soda frit"
+      ],
+      "url": "https://digitalfire.com/glossary/frit"
+    }
+  },
+  {
+    "chunk_id": "DF_FRIT_C00",
+    "text": "[용어: Frit] [material]\n프릿(Frit)의 특성과 활용:\n제조 원리: 원료 → 고온 용융 → 물에 급랭 → 분쇄 → 균질한 유리 분말\n\n장점:\n1. 일관성: 자연 광물의 가변성 제거\n2. 독성 원소 안전화: Pb(납), Ba, B₂O₃ 등을 유리 상태로 고정\n3. LOI = 0 (이미 소성됨) → 계산 단순화\n4. 저온에서도 효과적 용융 (특히 B₂O₃ 함유 프릿)\n5. 수용성 원소(Soda Ash 등)를 수용성 아닌 상태로 고정\n\n주요 Ferro 프릿 종류:\n- Ferro 3134: B₂O₃ + Na₂O → 저온 플럭스\n- Ferro 3195: Cone 6 범용\n- Ferro 3124: 중성 알칼리\n- Ferro 3249: MgO 고함유 매트 유약용\n\n중요성:\n- 산업 유약의 80%+ 프릿 기반\n- 수제 유약 작가들 사이에서 점점 채택 증가\n- Tony Hansen: \"프릿은 환상적이다, 도예가들이 너무 늦게 채택했다\"\n\n활용:\n- 저화도 유약: 프릿 80%+ 필수\n- Cone 6 유약: 프릿 30-50%로 B₂O₃ 도입",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Frit",
+      "category": "material",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "material",
+        "manufactured",
+        "consistent",
+        "low_fire"
+      ],
+      "related_terms": [
+        "B2O3",
+        "LOI",
+        "Glaze Chemistry",
+        "Boron Frit"
+      ],
+      "url": "https://digitalfire.com/glossary/frit"
+    }
+  },
+  {
+    "chunk_id": "DF_REDUCTION_FIRING_DEF",
+    "text": "[용어: Reduction Firing]\n[정의] 산소가 부족한 환원 분위기에서 소성. 철, 구리 등의 산화물이 환원되어 산화 소성과 전혀 다른 발색을 생성.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Reduction Firing",
+      "category": "firing_process",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "atmosphere",
+        "iron",
+        "copper",
+        "celadon",
+        "kiln"
+      ],
+      "key_phrases": [
+        "reduction",
+        "reduction firing",
+        "환원소성",
+        "atmosphere"
+      ],
+      "url": "https://digitalfire.com/glossary/reduction+firing"
+    }
+  },
+  {
+    "chunk_id": "DF_REDUCTION_FIRING_C00",
+    "text": "[용어: Reduction Firing] [firing_process]\n환원 소성(Reduction Firing) 원리와 효과:\n원리: C + CO₂ → 2CO (불완전 연소) → CO가 유약에서 산소 탈취\n발생: 가스·장작 가마에서 자연 발생, 전기 가마에서는 별도 장치 필요\n\n발색 변화:\n- Fe₂O₃(산화철, 적갈색) → Fe₂O₃·FeO·Fe₃O₄(환원) → 청회색(청자)\n- CuO(산화동, 녹색) → Cu₂O·Cu(환원) → 적색(동화/산화동홍유)\n- 철 티타니아 → 더 복잡한 환원 발색\n\n환원 타이밍:\n- 초기 환원: 700-900°C (소지의 탄소 제거 전) → 흑색 소지 위험\n- 중간 환원: 900-1000°C (주요 발색 환원 시작)\n- 최고 환원: 1200-1280°C (Cone 9-10) → 강환원\n\n산화-환원 사이클:\n- 대부분 고급 소성: 중간에 약산화 → 결함 치유 → 다시 환원\n\n한국 도예:\n- 고려청자: 환원 소성의 정수\n- 분청사기: 부분 환원으로 복잡한 질감",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Reduction Firing",
+      "category": "firing_process",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "atmosphere",
+        "iron",
+        "copper",
+        "celadon",
+        "kiln"
+      ],
+      "related_terms": [
+        "Fe2O3",
+        "CuO",
+        "Celadon Glaze",
+        "Tenmoku",
+        "Oxidation Firing"
+      ],
+      "url": "https://digitalfire.com/glossary/reduction+firing"
+    }
+  },
+  {
+    "chunk_id": "DF_OXIDATION_FIRING_DEF",
+    "text": "[용어: Oxidation Firing]\n[정의] 산소가 충분한 산화 분위기에서 소성. 전기 가마의 표준 소성 방식. 발색이 예측 가능하고 선명.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Oxidation Firing",
+      "category": "firing_process",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "atmosphere",
+        "electric_kiln",
+        "predictable",
+        "color"
+      ],
+      "key_phrases": [
+        "oxidation",
+        "oxidation firing",
+        "electric kiln",
+        "산화소성"
+      ],
+      "url": "https://digitalfire.com/glossary/oxidation+firing"
+    }
+  },
+  {
+    "chunk_id": "DF_OXIDATION_FIRING_C00",
+    "text": "[용어: Oxidation Firing] [firing_process]\n산화 소성(Oxidation Firing) 특성:\n환경: O₂ 충분 → 모든 금속 산화물이 최고 산화 상태 유지\n전기 가마: 기본적으로 산화 분위기 → Cone 6 도예의 표준\n\n발색:\n- Fe₂O₃: 황~갈~적갈색 (환원의 청색과 대조)\n- CuO: 녹색~청록색 (Na₂O/K₂O 기반에서)\n- CoO: 선명한 청색 (환원과 동일)\n- MnO₂: 갈색~자주색\n- Cr₂O₃: 녹색 (고온), 핑크 일부 플럭스 환경\n\n산화의 장점:\n- 재현성 높음 → 색 컨트롤 용이\n- 전기 가마 = 저비용, 소규모 스튜디오에 적합\n- 고른 온도 분포\n\n산화의 한계:\n- 환원 특유의 깊이감 있는 발색 불가\n- 자연적 불규칙성(flashing) 없음 → 의도적으로 설계 필요\n\nCone 6 유약 혁명:\n- 1980-2000년대 Cone 6 산화 유약 대폭 발전\n- Tony Hansen 등의 연구로 고화도 수준의 품질 달성",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Oxidation Firing",
+      "category": "firing_process",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "atmosphere",
+        "electric_kiln",
+        "predictable",
+        "color"
+      ],
+      "related_terms": [
+        "Reduction Firing",
+        "Glaze Chemistry",
+        "Ceramic Stain",
+        "Electric Kiln"
+      ],
+      "url": "https://digitalfire.com/glossary/oxidation+firing"
+    }
+  },
+  {
+    "chunk_id": "DF_FIRING_SCHEDULE_DEF",
+    "text": "[용어: Firing Schedule]\n[정의] 가마 소성의 온도-시간 프로그램. 승온 속도, 홀드 온도/시간, 냉각 속도가 유약 표면에 결정적 영향.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Firing Schedule",
+      "category": "firing_process",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "process",
+        "temperature",
+        "cooling",
+        "crystal_growth",
+        "hold"
+      ],
+      "key_phrases": [
+        "firing schedule",
+        "kiln schedule",
+        "cone",
+        "temperature",
+        "hold"
+      ],
+      "url": "https://digitalfire.com/glossary/firing+schedule"
+    }
+  },
+  {
+    "chunk_id": "DF_FIRING_SCHEDULE_C00",
+    "text": "[용어: Firing Schedule] [firing_process]\n소성 스케줄(Firing Schedule)의 구성:\n기본 구조:\n1. 초기 승온(60-200°C): 천천히 — 수분 제거\n2. 중간 승온(200-573°C): 석영 반전점 전 주의\n3. 빠른 승온(573-1000°C): 탄소 연소 완료 후\n4. 최고온 근접(1000-목표): 속도 조절\n5. 홀드(Hold): 목표 온도에서 유지 — 균온화\n6. 냉각: 빠른/느린 냉각에 따라 표면 효과 달라짐\n\nCone 시스템:\n- Cone 06: 1000°C / Cone 6: 1222°C / Cone 10: 1305°C\n- 온도 + 시간의 복합 개념 (느린 승온 = 더 낮은 실질 온도)\n\n유약 결과에 미치는 영향:\n- 빠른 냉각 → 광택 강화 (결정화 방지)\n- 느린 냉각 → 결정 성장 → 매트, 오일스팟 효과\n- 홀드 온도 → 기포 치유, 표면 평탄화\n\n결정유 스케줄:\n- 냉각 시 여러 단계 Hold (1050→1000→950°C)\n- 각 Hold에서 결정 핵 형성 → 성장\n- 총 소성 시간: 12-20시간+",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Firing Schedule",
+      "category": "firing_process",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "process",
+        "temperature",
+        "cooling",
+        "crystal_growth",
+        "hold"
+      ],
+      "related_terms": [
+        "Crystalline glazes",
+        "Kiln",
+        "Reduction Firing",
+        "Glaze Defects"
+      ],
+      "url": "https://digitalfire.com/glossary/firing+schedule"
+    }
+  },
+  {
+    "chunk_id": "DF_SPECIFIC_GRAVITY_DEF",
+    "text": "[용어: Specific Gravity]\n[정의] 유약 슬러리의 밀도를 물 대비 비율로 표현. 유약 적용 두께 제어의 핵심 측정값.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Specific Gravity",
+      "category": "process_control",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "application",
+        "measurement",
+        "quality_control",
+        "thickness"
+      ],
+      "key_phrases": [
+        "specific gravity",
+        "sg",
+        "glaze slurry",
+        "density"
+      ],
+      "url": "https://digitalfire.com/glossary/specific+gravity"
+    }
+  },
+  {
+    "chunk_id": "DF_SPECIFIC_GRAVITY_C00",
+    "text": "[용어: Specific Gravity] [process_control]\n비중(Specific Gravity) 측정과 활용:\n정의: 유약 슬러리 밀도 / 물 밀도 (물 = 1.0)\n\n일반 범위:\n- 딥핑 유약: SG 1.4-1.6\n- 브러싱 유약: SG 1.6-1.9\n- 스프레이 유약: SG 1.3-1.5\n\n측정 방법:\n1. 비중계(Hydrometer) — 직접 눈금 읽기\n2. 100ml 메스실린더 무게 측정 법 (g/ml)\n\n조정:\n- SG↑ → 물 감소 또는 유약 분말 추가\n- SG↓ → 물 추가\n\n중요성:\n- 동일 SG이어도 원료에 따라 두께 다름\n- 소성 후 두께: 0.3-0.8mm가 이상적\n- 너무 얇음 → 핀홀, 맨 소지 노출\n- 너무 두꺼움 → 흘러내림, 크롤링\n\n유약 레시피 카드에 반드시 기록:\n- 비중(SG)\n- 적용 방법 (딥핑/브러싱/스프레이)\n- 적용 횟수\n- 건조 두께",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Specific Gravity",
+      "category": "process_control",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "application",
+        "measurement",
+        "quality_control",
+        "thickness"
+      ],
+      "related_terms": [
+        "Glaze Slurry",
+        "Glaze Pinholing",
+        "Brushing Glaze"
+      ],
+      "url": "https://digitalfire.com/glossary/specific+gravity"
+    }
+  },
+  {
+    "chunk_id": "DF_MECHANISM_DEF",
+    "text": "[용어: Mechanism]\n[정의] 유약이 특정 시각 효과를 생성하는 화학적·물리적·소성 공정적 원인. 레시피 개발과 문제 해결의 핵심.",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Mechanism",
+      "category": "general",
+      "chunk_type": "definition",
+      "analysis_tags": [
+        "analysis",
+        "reverse_engineering",
+        "visual_character"
+      ],
+      "key_phrases": [
+        "mechanism",
+        "glaze mechanism",
+        "visual effect mechanism"
+      ],
+      "url": "https://digitalfire.com/glossary/mechanism"
+    }
+  },
+  {
+    "chunk_id": "DF_MECHANISM_C00",
+    "text": "[용어: Mechanism] [general]\n유약 메커니즘(Mechanism) 분석법:\n정의: 유약의 특정 시각/물리 특성을 만드는 구체적 원인 조합\n\n분석 접근:\n1. 베이스 분리: 투명 광택 또는 투명 매트 베이스 + 효과 성분\n2. 발색 메커니즘: 어떤 산화물이 어떤 분위기에서 발색?\n3. 질감 메커니즘: 무엇이 표면 질감을 만드는가? (결정? 기포? 점도?)\n4. 변색 메커니즘: 무엇이 변화를 만드는가? (루틸? 이중유약? 환원?)\n\n역공학(Reverse Engineering):\n- 분석 → 메커니즘 식별 → 조정 방향 결정\n- 예: \"이 유약 왜 매트인가?\" → CaO? MgO? 고Al₂O₃? → 특정 메커니즘 확인\n\nTony Hansen의 핵심 관점:\n\"대부분의 레시피는 베이스 + 메커니즘으로 분리 가능.\n베이스를 이해하면 메커니즘을 온도 간에 이식 가능.\"\n\nArtGlaze 분석 엔진 적용:\n- 입력 레시피 → UMF 계산 → 베이스 특성 파악 → 산화물별 메커니즘 식별\n- 최종 출력: \"이 유약은 [매트 유형]이며, [발색 메커니즘]으로 [예상 색상]을 냄\"\n",
+    "metadata": {
+      "source": "digitalfire",
+      "term": "Mechanism",
+      "category": "general",
+      "chunk_type": "content",
+      "analysis_tags": [
+        "analysis",
+        "reverse_engineering",
+        "visual_character"
+      ],
+      "related_terms": [
+        "Glaze Chemistry",
+        "Variegation",
+        "Seger Formula",
+        "Base Glaze"
+      ],
+      "url": "https://digitalfire.com/glossary/mechanism"
+    }
+  }
+]

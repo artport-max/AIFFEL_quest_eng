@@ -1,0 +1,125 @@
+{
+  "SiO2": {
+    "definition": "유약의 주요 유리 형성제. 유리 네트워크의 골격을 형성하며 내구성, 경도, 화학적 저항성을 부여.",
+    "analysis_tags": [
+      "gloss",
+      "durability",
+      "stability",
+      "glass_former"
+    ],
+    "key_effects": "SiO₂(실리카)의 유약 내 역할:\n기능: 유리 형성제(RO₂). 유리 네트워크의 기본 구조체\n- 표준 범위: Cone 10 기준 3.5-5.0 / Cone 6 기준 3.0-4.5 (UMF)\n- SiO₂↑ → 내구성↑, 용융 온도↑, 크레이징 위험↓, 광택↑\n- SiO₂ 과다 → 언더파이어드(underfired) 무광, 결정화 억제\n- SiO₂ 부족 → 내"
+  },
+  "Al2O3": {
+    "definition": "유약의 주요 안정제(양쪽성 산화물). 유리 점도를 높여 흘러내림 방지, 표면 경도와 화학적 내구성 부여.",
+    "analysis_tags": [
+      "matte",
+      "stability",
+      "viscosity",
+      "hardness"
+    ],
+    "key_effects": "Al₂O₃(알루미나)의 유약 내 역할:\n기능: 안정제(R₂O₃). 유리 점도 조절자\n- 표준 범위: Cone 10 기준 0.3-0.5 / Cone 6 기준 0.2-0.45 (UMF)\n- Al₂O₃↑ → 무광(matte)↑, 점도↑, 흘러내림↓, 경도↑\n- Al₂O₃ 과다 → 완전 내화성, 유약 미용융\n- Al₂O₃ 부족 → 과도한 흘러내림, 결정화 촉진\n\n"
+  },
+  "CaO": {
+    "definition": "가장 중요한 알칼리토류 플럭스. 내구성이 높은 유리 구조 형성. 고온(Cone 8+)에서 강력한 플럭스.",
+    "analysis_tags": [
+      "flux",
+      "durability",
+      "matte_mechanism",
+      "color_influence"
+    ],
+    "key_effects": "CaO(칼시아)의 유약 내 역할:\n기능: 플럭스(RO). 고온에서 매우 효과적\n- 표준 범위: Cone 10 기준 0.3-0.7 / Cone 6 기준 0.2-0.5 (UMF)\n- CaO↑ → 내구성↑, 광택↑(중간 농도), 무광(고농도: Calcia Matte)\n- CaO 고함량(0.6+) → 냉각 시 anorthite/wollastonite 결정 → 칼시"
+  },
+  "Fe2O3": {
+    "definition": "도예에서 가장 중요한 발색 산화물. 소성 분위기와 농도에 따라 황색~갈색~청회색~흑색까지 다양한 발색.",
+    "analysis_tags": [
+      "colorant",
+      "reduction",
+      "oxidation",
+      "tenmoku",
+      "celadon"
+    ],
+    "key_effects": "Fe₂O₃(산화철)의 발색 메커니즘:\n산화 소성(Oxidation):\n- 0.5-2%: 크림~아이보리, 베이지\n- 2-4%: 황갈색~황색\n- 4-8%: 갈색~적갈색\n- 8%+: 진갈색~흑갈색\n\n환원 소성(Reduction):\n- 1-2%: 청자(Celadon) — Fe²⁺ 이온이 청회색 발색\n- 4-6%: 철화(Iron-decorated) — 철갈색~회색\n"
+  },
+  "K2O": {
+    "definition": "알칼리 플럭스. 높은 열팽창계수. 광택 유약 제조에 필수. 포타슘 장석(Potash Feldspar)의 주요 플럭스 성분.",
+    "analysis_tags": [
+      "flux",
+      "gloss",
+      "high_expansion",
+      "colorant_modifier"
+    ],
+    "key_effects": "K₂O(포타슘 산화물)의 유약 내 역할:\n기능: 강력한 플럭스(R₂O). 높은 열팽창\n- 표준 범위: 0.1-0.4 (UMF)\n- K₂O↑ → 광택↑, 흘러내림↑, 열팽창↑, 크레이징 위험↑\n- Na₂O와 함께 알칼리 플럭스 그룹 형성 (K/Na 비율이 발색에 영향)\n\n발색 영향:\n- 구리: K₂O 환경에서 녹색/청록색\n- 코발트: 선명한 청색 발색\n\n원료"
+  },
+  "Na2O": {
+    "definition": "강력한 알칼리 플럭스. 가장 높은 열팽창계수 중 하나. 청색/청록색 발색 촉진. 구리 유약에서 청록색 발색의 핵심.",
+    "analysis_tags": [
+      "flux",
+      "high_expansion",
+      "alkaline_color",
+      "turquoise"
+    ],
+    "key_effects": "Na₂O(소다)의 유약 내 역할:\n기능: 매우 강력한 플럭스(R₂O). 최고 수준 열팽창\n- 표준 범위: 0.05-0.3 (UMF)\n- Na₂O↑ → 용융점↓↓, 광택↑, 열팽창↑↑, 크레이징 위험↑↑\n- Na₂O 다량 함유 유약 → 세월이 지나면 표면 흐림(clouding) 위험\n\n발색 영향:\n- 구리(CuO): Na₂O 환경에서 강렬한 터키석(turqu"
+  },
+  "MgO": {
+    "definition": "고온에서 유효한 플럭스. 특유의 실키(silky) 무광 표면 생성. 발색 억제 효과가 있어 중성적 매트 유약에 활용.",
+    "analysis_tags": [
+      "matte",
+      "silky_surface",
+      "color_suppression",
+      "flux"
+    ],
+    "key_effects": "MgO(마그네시아)의 유약 내 역할:\n기능: 플럭스(RO). 고온에서 더 효과적\n- 표준 범위: 0.1-0.4 (UMF)\n- MgO↑ → 실키 매트(silky matte) 표면, 발색 억제\n- MgO 고함량(0.4+) → 점도↑, 특유의 크리미(creamy) 무광 표면\n\n실키 매트 메커니즘:\n- 냉각 시 Enstatite(MgSiO₃) 미세 결정 형성 → "
+  },
+  "ZnO": {
+    "definition": "복합적 역할의 산화물. 중간 온도에서 플럭스이자 광학적 유백제. 결정유(Crystalline Glaze)의 필수 성분. 무광 촉진.",
+    "analysis_tags": [
+      "crystalline",
+      "matte",
+      "flux",
+      "color_modifier"
+    ],
+    "key_effects": "ZnO(산화아연)의 유약 내 역할:\n기능: 플럭스 + 유백제 + 결정 촉진제 (다목적 산화물)\n- 표준 범위: 0.0-0.3 (UMF)\n- ZnO + 고SiO₂ → 결정유(Crystalline Glaze) 핵심 조합\n- ZnO 중간 농도 → 매트~반광택\n- ZnO 소량 → 광택 향상, 발색 선명도↑\n\n결정 유약 메커니즘:\n- ZnO + SiO₂ → Will"
+  },
+  "TiO2": {
+    "definition": "강력한 변색제(variegator)이자 부분 유백제. 루틸(Rutile)의 주성분. 표면에 독특한 얼룩/질감 효과 생성.",
+    "analysis_tags": [
+      "variegation",
+      "opacifier",
+      "visual_effect",
+      "rutile"
+    ],
+    "key_effects": "TiO₂(티타니아)의 유약 내 역할:\n기능: 유백제 + 변색제(variegator). 독특한 시각 효과 생성\n- 일반 범위: 0.05-0.15 (UMF)\n- TiO₂↑ → 유백성↑, 변색(variegation)↑, 크리미 표면\n- 소량(1-3%): 발색 변형, 흥미로운 얼룩 효과\n- 다량(8-12%): 강한 유백, titanium-crystalline 형성"
+  },
+  "CoO": {
+    "definition": "세라믹 최강의 청색 발색제. 소량(0.5-1%)으로 강렬한 청색 발색. 역사적으로 동아시아 청화백자에 사용.",
+    "analysis_tags": [
+      "blue",
+      "colorant",
+      "stable",
+      "strong_colorant"
+    ],
+    "key_effects": "CoO(산화코발트)의 발색 특성:\n발색 메커니즘: Co²⁺ 이온의 d-d 전자전이 → 청색 흡수\n- 산화/환원 모두에서 안정적 청색 발색 (가장 안정적인 발색제 중 하나)\n- 사용 범위: 0.5-2% (매우 강력 → 소량 사용)\n\n발색 수식:\n- CaO/MgO 환경: 순수 청색 (매우 선명)\n- ZnO 환경: 청색 + 보라/분홍 계열 변화\n- MgO 다량:"
+  },
+  "CuO": {
+    "definition": "소성 분위기에 가장 민감한 발색 산화물. 산화 소성 → 녹색/청록색, 환원 소성 → 구리 적색(Copper Red).",
+    "analysis_tags": [
+      "colorant",
+      "atmosphere_sensitive",
+      "copper_red",
+      "turquoise",
+      "green"
+    ],
+    "key_effects": "CuO(산화구리)의 발색 특성:\n산화 소성:\n- 중성 유약(CaO/MgO 기반): 녹색(green)\n- 알칼리 유약(Na₂O/K₂O 기반): 청록색(turquoise)\n- 사용 범위: 1-3%\n\n환원 소성 (구리 적색 — Copper Red):\n- 환원 분위기에서 Cu²⁺ → Cu⁰(금속 구리) 또는 Cu⁺(Cu₂O)\n- 고알칼리(Na₂O/K₂O), 저알루"
+  },
+  "B2O3": {
+    "definition": "유리 형성제이자 플럭스. 낮은 열팽창계수로 크레이징 완화. 저~중온 유약에서 필수적. 보론 프릿의 핵심 성분.",
+    "analysis_tags": [
+      "low_expansion",
+      "flux",
+      "glass_former",
+      "low_fire",
+      "stability"
+    ],
+    "key_effects": "B₂O₃(산화붕소)의 복합적 역할:\n이중 역할: 유리 형성제(RO₂처럼) + 플럭스(저온에서)\n- Seger Formula의 한계: B₂O₃는 두 그룹에 걸쳐 역할 → 단순 분류 어려움\n\n핵심 특성:\n- 낮은 열팽창계수 → 크레이징 위험 대폭 감소\n- 용융 온도 대폭 저하 → 저화도 유약에서 필수\n- 유리 투명도 향상\n- 내화학성 개선 (내구성↑)\n\n보론 "
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Digitalfire Ceramic Glaze Knowledge Base",
+  "version": "1.0.0",
+  "source": "digitalfire.com (Tony Hansen) + Expert Knowledge",
+  "built_at": "2026-04-07T05:04:21.352471",
+  "total_terms": 33,
+  "total_chunks": 67,
+  "categories": {
+    "chemistry_method": 4,
+    "oxide": 12,
+    "glaze_type": 7,
+    "defect": 2,
+    "material": 3,
+    "firing_process": 3,
+    "process_control": 1,
+    "general": 1
+  }
+}
