@@ -36,6 +36,9 @@
 
 <img width="1068" height="1386" alt="스크린샷 2026-04-07 165612" src="https://github.com/user-attachments/assets/74216f17-fb49-43e5-be19-cce8e4b7a3b6" />
 
+<img width="1044" height="1525" alt="image" src="https://github.com/user-attachments/assets/29f5a7e4-2881-4395-932f-dccdb4979156" />
+
+
 # 회고(참고 링크 및 코드 개선)
 ```
 # 리뷰어의 회고를 작성합니다.
